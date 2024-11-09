@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\TextProcessorApp.Core\TextProcessorApp.Core.csproj" />
-    <ProjectReference Include="..\..\TextProcessorApp.Core\TextProcessorApp.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
